@@ -23,6 +23,15 @@ Things you may want to cover:
 
 * ...
 
+Baaahaaaaaaaaahhhhhh
+Boooooorrrrrrrrriiiiiiinnnnnnngggggggg
+
+One of the many few creations by me!!
+For more information
+please please do visit 
+the
+[*In-depth analysis of all the rogues ruling the world*](http://devajashah.wordpress.com/)
+by [Guess wooo ?](http://devajashah.wordpress.com/)
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
